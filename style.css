@@ -1,0 +1,16 @@
+#video{
+    width: 100%;
+    height: 621px;
+    border: none;
+}
+
+.Travel_mainDiv{
+border: 1px solid lightseagreen;
+}
+.Travel_mainDiv img{
+width: 100%;
+}
+.Travel_mainDiv h5, .Travel_mainDiv{
+   margin: 20px;
+    }
+
